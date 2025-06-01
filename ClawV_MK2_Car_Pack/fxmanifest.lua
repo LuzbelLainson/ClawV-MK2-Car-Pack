@@ -272,9 +272,20 @@ data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/aq2jzgterace_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/aq2jzgterace_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aq2jzgterace'
 
-
 -- Dinka Jester Stock --
 data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/aqtoy2jzstock_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/aqtoy2jzstock_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/aqtoy2jzstock_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aqtoy2jzstock'
+
+-- Annis ZR350 Nishukan --
+data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/fd3sid_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/fd3sid_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/fd3sid_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_fd3sid'
+
+-- Ubermacht Sentinel SG7 --
+data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/s55b30_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/s55b30_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/s55b30_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_s55b30'
